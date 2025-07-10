@@ -52,6 +52,6 @@ You may copy, modify, distribute, and use the data — **even for commercial pur
 ---
 
 ## References
--** **
+
 1. Tropf, W. J., and M. E. Thomas (1998), Aluminum oxide (Al2O3) revisited, in Handbook of Optical Constants of Solids, vol. 3, pp. 653–677, Academic Press, New York.
 2. 
