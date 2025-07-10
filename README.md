@@ -1,6 +1,6 @@
-# Alumina Nanoparticle Optical Property Data
+# Alumina (Al₂O₃) Optical Property Data
 
-This repository contains raw and processed optical property data for **alumina (Al₂O₃) nanoparticles**, including measurements from:
+This repository contains raw and processed optical property data for **Alumina (Al₂O₃) nanoparticles**, including measurements from:
 
 - Complex refractive index calculations
 - Photoacoustic Spectrometry (PAS)
