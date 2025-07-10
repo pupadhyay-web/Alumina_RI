@@ -2,10 +2,9 @@
 
 This repository contains raw and processed optical property data for **Alumina (Al₂O₃) nanoparticles**, including measurements from:
 
-- Complex refractive index calculations
 - Photoacoustic Spectrometry (PAS)
 - Electron Energy Loss Spectroscopy (EELS)
-
+- Handbook of Optical Constants of Solids (Tropf and Thomas, 1998)
 ---
 
 ## Files Included
