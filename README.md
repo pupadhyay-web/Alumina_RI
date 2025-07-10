@@ -45,7 +45,6 @@ This repository contains raw and processed optical property data for **alumina (
   2. `k_1` to `k_10` — Individual measurements from 10 ROIs
 
 ---
-
 ## License
 -**Columns**:
 1. Tropf, W. J., and M. E. Thomas (1998), Aluminum oxide (Al2O3) revisited, in Handbook of Optical Constants of Solids, vol. 3, pp. 653–677, Academic Press, New York.
