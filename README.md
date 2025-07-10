@@ -42,7 +42,7 @@ This repository contains raw and processed optical property data for **alumina (
 - **Wavelength Range**: 27 nm to 1375 nm
 - **Columns**:
   1. `Wavelength (nm)`
-  2. `k_1` to `k_10` — Individual measurements from 10 ROIs
+  2. `k_1` to `k_10` — 10 individual measurements of imaginary refractive index (`k`)
 
 ---
 ## License
