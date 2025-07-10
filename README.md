@@ -46,6 +46,8 @@ This repository contains raw and processed optical property data for **alumina (
 
 ---
 ## License
+This dataset is dedicated to the public domain under the [Creative Commons CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).  
+You may copy, modify, distribute, and use the data — **even for commercial purposes — without asking permission**.
 
 ---
 
