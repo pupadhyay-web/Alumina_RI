@@ -29,11 +29,9 @@ This repository contains raw and processed optical property data for **alumina (
   1. `Particle Type` — Spherical alpha-phase, Irregular alpha-phase, Irregular gamma-phase
   2. `Wavelength (nm)`
   3. `n_points` — Number of data points
-  4. `k_25%` — First quartile
+  4. `k_25%` — 25th percentile
   5. `k_median` — Median value
   6. `k_75%` — 75th percentile
-  7. `k_lower_bound` — Tukey lower bound
-  8. `k_upper_bound` — Tukey upper bound
 
 ---
 
