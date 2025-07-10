@@ -46,12 +46,10 @@ This repository contains raw and processed optical property data for **alumina (
 
 ---
 ## License
--**Columns**:
-1. Tropf, W. J., and M. E. Thomas (1998), Aluminum oxide (Al2O3) revisited, in Handbook of Optical Constants of Solids, vol. 3, pp. 653–677, Academic Press, New York.
-2. 
 
 ---
 
 ## References
-
-Although not required, if you use this dataset in your work, a citation or acknowledgment is appreciated.
+-** **
+1. Tropf, W. J., and M. E. Thomas (1998), Aluminum oxide (Al2O3) revisited, in Handbook of Optical Constants of Solids, vol. 3, pp. 653–677, Academic Press, New York.
+2. 
